@@ -3,6 +3,7 @@ import { JobName } from './homepage/JobName'
 import { Name } from './homepage/Name'
 import { Detail } from './homepage/details/Detail'
 import { DetailContainer } from './homepage/details/DetailContainer'
+import { SectionHeader } from './homepage/headers/SectionHeader'
 import { HeadlineGrid } from './layout/HeadlineGrid'
 
 function App() {
@@ -20,12 +21,13 @@ function App() {
         <JobName>Senior Frontend Developer</JobName>
       </HeadlineGrid>
       <section>
-        <h2>Personal Profile</h2>
+        <SectionHeader>Personal Profile</SectionHeader>
         <p>
           Senior Frontend Engineer with 6 years experience building React TypeScript front-ends, RESTful APIs, and containerised
 microservices on Kubernetes
         </p>
       </section>
+      <hr />
     </>
   )
 }
