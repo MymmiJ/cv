@@ -28,7 +28,7 @@ function App() {
         <DetailContainer>
           <Detail>07753615530</Detail>
           <Detail>jimmy.samuel.macgregor@gmail.com</Detail>
-          <Detail><a href="https://www.jimmymacgregor.com">www.jimmymacgregor.com</a></Detail>
+          <Detail><a href="https://cv.jimmymacgregor.com">cv.jimmymacgregor.com</a></Detail>
           <Detail><a href="https://github.com/MymmiJ">GitHub</a></Detail>
           <Detail>113 Summerhill Road, Bristol, BS5 8JT</Detail>
         </DetailContainer>
