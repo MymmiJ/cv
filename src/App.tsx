@@ -135,7 +135,7 @@ function App() {
         <DiscreteSuccessSection>
           <SuccessSectionHeader>Education History</SuccessSectionHeader>
           <EducationHeader>UNIVERSITY OF WASHINGTON</EducationHeader>
-          <EducationDescriptor>Programming Languages, March 2023</EducationDescriptor>
+          <EducationDescriptor>Programming Languages, March 2013</EducationDescriptor>
           <EducationHeader>BATH SPA UNIVERSITY</EducationHeader>
           <EducationDescriptor>MA Creative Writing (Merit), 2011</EducationDescriptor>
           <EducationHeader>SUSSEX UNIVERSITY</EducationHeader>
