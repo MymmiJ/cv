@@ -8,6 +8,13 @@ const colors = {
     tertiaryColor
 };
 
+const mobileBreakpoint = '720px';
+
+const breakpoints = {
+    mobileBreakpoint,
+};
+
 export {
-    colors
+    colors,
+    breakpoints
 };

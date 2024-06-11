@@ -43,43 +43,6 @@ microservices on Kubernetes
       </section>
       <hr />
       <MainContentGrid>
-        <DiscreteSuccessSection>
-          <SuccessSectionHeader>Areas of Expertise</SuccessSectionHeader>
-          <ul>
-            <SuccessSectionEntry>
-              <strong>Languages</strong> - TypeScript, JavaScript, PHP, Java, Python 3, Ruby, Go, C#, SQL, Racket, Haskell
-            </SuccessSectionEntry>
-            <SuccessSectionEntry>
-              <strong>Frameworks</strong> - React, Redux, Gatsby, Symfony, Tensorflow, sklearn, CalmmJS, Jest, Mocha, Cypress,
-            </SuccessSectionEntry>
-            <SuccessSectionEntry>
-              <strong>Databases</strong> - Riak, ArangoDB, Redis, MySQL, SQLite
-            </SuccessSectionEntry>
-            <SuccessSectionEntry>
-              <strong>Infrastructure</strong> - Solr, Kubernetes, Docker, Sentry, Prometheus
-            </SuccessSectionEntry>
-          </ul>
-        </DiscreteSuccessSection>
-        <DiscreteSuccessSection>
-          <SuccessSectionHeader>Volunteer Experience</SuccessSectionHeader>
-          <ul>
-            <SuccessSectionEntry>
-              <strong>Bristol Disability Equalities Forum</strong> (Apr. 2016 - Nov. 2016) Identified and fixed Wordpress breach with encoded payload, hardened site to avoid further breaches, worked to improve site efficiency and remove technical debt from site.
-            </SuccessSectionEntry>
-            <SuccessSectionEntry>
-              <strong>Bristol Energy Network</strong>  (Nov. 2022 - Dec. 2022) Provided technical support and guidance for specifications for site redesign.
-            </SuccessSectionEntry>
-          </ul>
-        </DiscreteSuccessSection>
-        <DiscreteSuccessSection>
-          <SuccessSectionHeader>Education History</SuccessSectionHeader>
-          <EducationHeader>UNIVERSITY OF WASHINGTON</EducationHeader>
-          <EducationDescriptor>Programming Languages, March 2023</EducationDescriptor>
-          <EducationHeader>BATH SPA UNIVERSITY</EducationHeader>
-          <EducationDescriptor>MA Creative Writing (Merit), 2011</EducationDescriptor>
-          <EducationHeader>SUSSEX UNIVERSITY</EducationHeader>
-          <EducationDescriptor>BA (Hons) English Literature (2:1), 2009</EducationDescriptor>
-        </DiscreteSuccessSection>
         <WorkExperienceSection>
           <WorkExperienceHeader>Work Experience</WorkExperienceHeader>
           <WorkExperienceJobHeader>SOFTWARE ENGINEER</WorkExperienceJobHeader>
@@ -142,6 +105,43 @@ microservices on Kubernetes
             </ul>
           </WorkExperienceDescriptor>
         </WorkExperienceSection>
+        <DiscreteSuccessSection>
+          <SuccessSectionHeader>Areas of Expertise</SuccessSectionHeader>
+          <ul>
+            <SuccessSectionEntry>
+              <strong>Languages</strong> - TypeScript, JavaScript, PHP, Java, Python 3, Ruby, Go, C#, SQL, Racket, Haskell
+            </SuccessSectionEntry>
+            <SuccessSectionEntry>
+              <strong>Frameworks</strong> - React, Redux, Gatsby, Symfony, Tensorflow, sklearn, CalmmJS, Jest, Mocha, Cypress,
+            </SuccessSectionEntry>
+            <SuccessSectionEntry>
+              <strong>Databases</strong> - Riak, ArangoDB, Redis, MySQL, SQLite
+            </SuccessSectionEntry>
+            <SuccessSectionEntry>
+              <strong>Infrastructure</strong> - Solr, Kubernetes, Docker, Sentry, Prometheus
+            </SuccessSectionEntry>
+          </ul>
+        </DiscreteSuccessSection>
+        <DiscreteSuccessSection>
+          <SuccessSectionHeader>Volunteer Experience</SuccessSectionHeader>
+          <ul>
+            <SuccessSectionEntry>
+              <strong>Bristol Disability Equalities Forum</strong> (Apr. 2016 - Nov. 2016) Identified and fixed Wordpress breach with encoded payload, hardened site to avoid further breaches, worked to improve site efficiency and remove technical debt from site.
+            </SuccessSectionEntry>
+            <SuccessSectionEntry>
+              <strong>Bristol Energy Network</strong>  (Nov. 2022 - Dec. 2022) Provided technical support and guidance for specifications for site redesign.
+            </SuccessSectionEntry>
+          </ul>
+        </DiscreteSuccessSection>
+        <DiscreteSuccessSection>
+          <SuccessSectionHeader>Education History</SuccessSectionHeader>
+          <EducationHeader>UNIVERSITY OF WASHINGTON</EducationHeader>
+          <EducationDescriptor>Programming Languages, March 2023</EducationDescriptor>
+          <EducationHeader>BATH SPA UNIVERSITY</EducationHeader>
+          <EducationDescriptor>MA Creative Writing (Merit), 2011</EducationDescriptor>
+          <EducationHeader>SUSSEX UNIVERSITY</EducationHeader>
+          <EducationDescriptor>BA (Hons) English Literature (2:1), 2009</EducationDescriptor>
+        </DiscreteSuccessSection>
       </MainContentGrid>
       <BlackBar />
     </>

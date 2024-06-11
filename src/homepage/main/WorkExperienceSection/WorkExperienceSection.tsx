@@ -5,4 +5,5 @@ export const WorkExperienceSection = styled.section`
     grid-row: 1/-1;
     
     margin-left: 1.5em;
+    margin-bottom: 3em;
 `;
