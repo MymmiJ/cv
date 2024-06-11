@@ -37,8 +37,7 @@ function App() {
       <section>
         <SectionHeader>Personal Profile</SectionHeader>
         <p>
-          Senior Frontend Engineer with 6 years experience building React TypeScript front-ends, RESTful APIs, and containerised
-microservices on Kubernetes
+          Senior Frontend Engineer with 6 years experience building React TypeScript front-ends, RESTful APIs, and containerised microservices on Kubernetes
         </p>
       </section>
       <hr />
