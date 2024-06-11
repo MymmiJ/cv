@@ -54,7 +54,7 @@ function App() {
               <li>Repaired and optimised company website, reducing download size by over 65%</li>
             </ul>
           </WorkExperienceDescriptor>
-          <WorkExperienceJobHeader>SENIOR CONTENT ENGINEER</WorkExperienceJobHeader>
+          <WorkExperienceJobHeader>SENIOR FRONTEND ENGINEER</WorkExperienceJobHeader>
           <WorkExperienceDescriptor>
             <WorkExperienceWorkplace>Ably</WorkExperienceWorkplace><WorkExperienceDate datetime={"2021-12-01"}>Dec. 2021</WorkExperienceDate> - <WorkExperienceDate datetime="2023-08-01">Aug. 2023</WorkExperienceDate>
             <ul>
