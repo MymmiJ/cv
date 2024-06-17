@@ -48,10 +48,10 @@ function App() {
           <WorkExperienceDescriptor>
             <WorkExperienceWorkplace>Pricing Monkey</WorkExperienceWorkplace><WorkExperienceDate datetime="2023-08-01">Aug. 2023</WorkExperienceDate> - <WorkExperienceDate datetime={(new Date()).toLocaleDateString()}>Present</WorkExperienceDate>
             <ul>
-              <li>Moved complex Python Windows application build process to CI/CD</li>
-              <li>Implemented Shared Worker to share context between tabs and improve React application performance</li>
-              <li>Created CSS best practice guidelines</li>
-              <li>Repaired and optimised company website, reducing download size by over 65%</li>
+              <li>Automated complex Python Windows application build process using Azure Pipelines, improving deployment efficiency and removing 5 out of 6 possible sources of build errors</li>
+              <li>Enhanced a React application's performance by implementing a Shared Worker, resulting in reduced memory usage and faster load times</li>
+              <li>Developed and enforced CSS best practice guidelines, leading to consistent design, improved maintainability, and reduced development time</li>
+              <li>Optimized the company website by implementing image compression and code minification, reducing download size by over 65% and improving user experience</li>
             </ul>
           </WorkExperienceDescriptor>
           <WorkExperienceJobHeader>SENIOR FRONTEND ENGINEER</WorkExperienceJobHeader>
