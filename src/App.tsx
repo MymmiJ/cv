@@ -51,7 +51,7 @@ function App() {
               <li>Automated complex Python Windows application build process using Azure Pipelines, improving deployment efficiency and removing 5 out of 6 possible sources of build errors</li>
               <li>Enhanced a React application's performance by implementing a Shared Worker, resulting in reduced memory usage and faster load times</li>
               <li>Developed and enforced CSS best practice guidelines, leading to consistent design, improved maintainability, and reduced development time</li>
-              <li>Optimized the company website by implementing image compression and code minification, reducing download size by over 65% and improving user experience</li>
+              <li>Optimized the company website by replacing little-used libraries with vanilla JavaScript, compressing images and minifying code, reducing download size by over 65% and improving user experience</li>
             </ul>
           </WorkExperienceDescriptor>
           <WorkExperienceJobHeader>SENIOR FRONTEND ENGINEER</WorkExperienceJobHeader>
