@@ -20,6 +20,9 @@ import { WorkExperienceWorkplace } from './homepage/main/WorkExperienceSection/W
 import { WorkExperienceDescriptor } from './homepage/main/WorkExperienceSection/WorkExperienceDescriptor'
 
 function App() {
+  const today = new Date();
+  const firstDayOfSoftwareEngineerRole = new Date("2016-02-28");
+  const yearsOfExperience = Math.floor((today.getTime() - firstDayOfSoftwareEngineerRole.getTime()) / (1000 * 60 * 60 * 24 * 365));
   return (
     <>
       <BlackBar />
@@ -37,7 +40,7 @@ function App() {
       <section>
         <SectionHeader>Personal Profile</SectionHeader>
         <p>
-          Senior Frontend Engineer with 6 years experience building React TypeScript front-ends, RESTful APIs, and containerised microservices on Kubernetes
+          Senior Frontend Engineer with {yearsOfExperience} years experience building React TypeScript front-ends, RESTful APIs, and containerised microservices on Kubernetes
         </p>
       </section>
       <hr />
