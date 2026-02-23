@@ -52,7 +52,7 @@ function App() {
             <WorkExperienceWorkplace>Pricing Monkey</WorkExperienceWorkplace><WorkExperienceDate datetime="2023-08-01">Aug. 2023</WorkExperienceDate> - <WorkExperienceDate datetime={(new Date()).toLocaleDateString()}>Present</WorkExperienceDate>
             <ul>
               <li>Automated complex Python Windows application build process using Azure Pipelines, improving deployment efficiency and removing 5 out of 6 possible sources of build errors</li>
-              <li>Enhanced a React application's performance by implementing a Shared Worker, resulting in reduced memory usage and faster load times</li>
+              <li>Enhanced React application's performance and capabilities by implementing a Shared Worker, resulting in reduced memory usage, shared functionality between tabs, and faster load times</li>
               <li>Developed CSS best practice guidelines, leading to consistent design, improved maintainability, and reduced development time</li>
               <li>Optimized the company website by replacing little-used libraries with vanilla JavaScript, compressing images and minifying code, reducing download size by over 65% and improving user experience</li>
             </ul>
