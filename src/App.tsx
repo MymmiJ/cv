@@ -35,12 +35,12 @@ function App() {
           <Detail><a href="https://github.com/MymmiJ">GitHub</a></Detail>
           <Detail>113 Summerhill Road, Bristol, BS5 8JT</Detail>
         </DetailContainer>
-        <JobName>Senior Frontend Engineer</JobName>
+        <JobName>Senior Engineer</JobName>
       </HeadlineGrid>
       <section>
         <SectionHeader>Personal Profile</SectionHeader>
         <p>
-          Senior Frontend Engineer with {yearsOfExperience} years experience building React TypeScript front-ends, RESTful APIs, and containerised microservices on Kubernetes
+          Senior Engineer with {yearsOfExperience} years experience building React TypeScript front-ends, RESTful APIs, and containerised microservices on Kubernetes
         </p>
       </section>
       <hr />
